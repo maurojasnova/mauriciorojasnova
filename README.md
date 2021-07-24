@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔎 Solving problems is one of the most atractives activities, or at least that's what I think. That reason was my motivation to become a mechanical engineer.
+
+🚀 My fascination for finding solutions led me to work with research groups in R+D+i projects in the aeroespace sector.
+
+💻 After finishing my degree, I realized that the world was full of data that needs to be understood and shared. So I decided to become more involved in tech sector with [Platzi](https://platzi.com/).
+
+🌱 I’m currently learning about web development and data science.
+
+📫 If you want to contact me, leave me a message on my [Linkedin](https://www.linkedin.com/in/mauriciorojasnova/).
+
 <!--
 **mauriciorojasnova/mauriciorojasnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
