@@ -2,9 +2,9 @@
 
 🔎 Solving problems is one of the most atractives activities, or at least that's what I think. That reason was my motivation to become a mechanical engineer.
 
-🚀 My fascination for finding solutions led me to work with research groups in R&D projects in the aeroespace sector.
+🚀 My fascination for finding solutions led me to work with research groups in R&D projects during my BSc.
 
-💻  As I finished my degree, jobs were becoming remote. So I decided to complement my career by getting more involved in the technology sector.
+💻  As I finished my degree, I decided to complement my career by getting more involved in the technology sector.
 
 🌱 I’m currently learning about web development and data science.
 
